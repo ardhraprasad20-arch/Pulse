@@ -39,6 +39,7 @@ def build_summary():
     quote = get_quote()
 
     summary = f"""
+    Good Morning! ☀️
 ==============================
 PULSE - Daily Summary
 {today}
